@@ -1,5 +1,4 @@
 <h2> Hi, I'm Halil Kirazkaya 👋</h2>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=halilkirazkaya&show_icons=true&theme=cobalt" width="380">
 
 <p><em>Jr Security Researcher <img src="https://media.giphy.com/media/szZdd9iXAEdoslJouv/giphy.gif" width="30"></em></p>
 
